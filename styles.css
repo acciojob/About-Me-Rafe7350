@@ -1,7 +1,15 @@
+.container{
+    border: 2px solid black;
+}
+.img{
+    width: 200px;
+}
+#block{
+    float: right
+    clear:both;
+    
+}
 .para{
-    justify-content: space-between;
-    text-align: center;
-    margin: auto;
-    padding-right: 10px;
-font-display: flex;
+    float: right;
+    overflow: auto;
 }
